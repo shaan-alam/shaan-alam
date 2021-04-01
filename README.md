@@ -6,9 +6,12 @@
 <p align="left"> <a href="https://twitter.com/shaancodes" target="blank"><img src="https://img.shields.io/twitter/follow/shaancodes?logo=twitter&style=for-the-badge" alt="shaancodes" /></a> </p>
 
 - 📫 How to reach me **shaanalam718@gmail.com**
+- Visit my <a target="_blank" href="https://shaanalam.vercel.app">online Portfolio</a><br />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://dev.to/shaan71845" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shaan71845" height="30" width="40" /></a>
 <a href="https://twitter.com/shaancodes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shaancodes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shaan-alam-01784018a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shaan-alam-01784018a" height="30" width="40" /></a>
