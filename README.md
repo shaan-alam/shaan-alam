@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shaancodes" target="blank"><img src="https://img.shields.io/twitter/follow/shaancodes?logo=twitter&style=for-the-badge" alt="shaancodes" /></a> </p>
 
-- 📫 How to reach me **shaanalam718@gmail.com**
+- 📫 How to reach me **shaanalam369@gmail.com**
 - Visit my <a target="_blank" href="https://shaanalam.vercel.app">online Portfolio</a><br />
 
 
