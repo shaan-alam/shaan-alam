@@ -15,7 +15,7 @@
 <a href="https://dev.to/shaan71845" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shaan71845" height="30" width="40" /></a>
 <a href="https://twitter.com/shaancodes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shaancodes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shaan-alam-01784018a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shaan-alam-01784018a" height="30" width="40" /></a>
-<a href="https://instagram.com/__iamshaan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__iamshaan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__shaanalam__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__iamshaan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
