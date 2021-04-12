@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shaan Alam</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
+<img src="https://media.giphy.com/media/QX6ruFElzFdeIfblrg/giphy.gif" align="center" />
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaan71845" alt="shaan71845" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shaancodes" target="blank"><img src="https://img.shields.io/twitter/follow/shaancodes?logo=twitter&style=for-the-badge" alt="shaancodes" /></a> </p>
