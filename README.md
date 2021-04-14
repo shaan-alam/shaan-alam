@@ -20,7 +20,10 @@
 - 📫 How to reach me **shaanalam369@gmail.com**  
   
 ### Blogs posts  
-<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:START -->
+- [I created a VS Code theme 🔥️](https://dev.to/shaan71845/i-created-a-vs-code-theme-1oem)
+- [Setup your ReactJS + Tailwind CSS Project by creating a template 🔥](https://dev.to/shaan71845/setup-your-reactjs-tailwind-css-project-by-creating-a-template-2ifa)
+- [Here's how I made a real-time chatbox in ReactJS and Firebase](https://dev.to/shaan71845/here-s-how-i-made-a-real-time-chatbox-in-reactjs-and-firebase-3pg2)
 <!-- BLOG-POST-LIST:END -->  
   
 <h3 align="left">Connect with me:</h3>  
