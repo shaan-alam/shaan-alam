@@ -21,10 +21,10 @@
   
 ### Blogs posts  
 <!-- BLOG-POST-LIST:START -->
+- [I Recreated my VSCode Theme 🔥](https://dev.to/shaan71845/i-recreated-my-vscode-theme-33p6)
 - [I launched a Developer YouTube Channel 🎉](https://dev.to/shaan71845/i-launched-a-developer-youtube-channel-1h5f)
 - [Create awesome Page Transitions in NextJS using Framer motion](https://dev.to/shaan71845/create-awesome-page-transitions-in-nextjs-using-framer-motion-2pln)
 - [I created a VS Code theme 🔥️](https://dev.to/shaan71845/i-created-a-vs-code-theme-1oem)
-- [Setup your ReactJS + Tailwind CSS Project by creating a template 🔥](https://dev.to/shaan71845/setup-your-reactjs-tailwind-css-project-by-creating-a-template-2ifa)
 <!-- BLOG-POST-LIST:END -->  
   
 <h3 align="left">Connect with me:</h3>  
