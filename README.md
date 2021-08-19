@@ -23,8 +23,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to create a Custom Drag & Drop Hook in React!🔥](https://dev.to/shaan71845/how-to-create-a-custom-drag-drop-hook-in-react-nme)
 - [I Recreated my VSCode Theme 🔥](https://dev.to/shaan71845/i-recreated-my-vscode-theme-33p6)
-- [I launched a Developer YouTube Channel 🎉](https://dev.to/shaan71845/i-launched-a-developer-youtube-channel-1h5f)
 - [Create awesome Page Transitions in NextJS using Framer motion](https://dev.to/shaan71845/create-awesome-page-transitions-in-nextjs-using-framer-motion-2pln)
+- [I created a VS Code theme 🔥️](https://dev.to/shaan71845/i-created-a-vs-code-theme-1oem)
 <!-- BLOG-POST-LIST:END -->  
   
 <h3 align="left">Connect with me:</h3>  
