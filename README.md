@@ -13,9 +13,9 @@
   
 - 🌱 I’m currently learning **NextJS**  
   
-- 👨‍💻 All of my projects are available [https://shaanalam.vercel.app](here)  
+- 👨‍💻 All of my projects are available [here](https://shaanalam.vercel.app)  
   
-- 📝 I regularly write articles on [https://dev.to/shaan71845](dev.to)  
+- 📝 I regularly write articles on [dev.to](https://dev.to/shaan71845)  
   
 - 📫 How to reach me **shaanalam369@gmail.com**  
   
