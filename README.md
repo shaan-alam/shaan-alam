@@ -21,10 +21,10 @@
   
 ### Blogs posts  
 <!-- BLOG-POST-LIST:START -->
+- [How to implement Google Authentication in your React Applications!!](https://dev.to/shaan_alam/how-to-implement-google-authentication-in-your-react-applications-jb6)
 - [How to learn React - The Effective way](https://dev.to/shaan_alam/how-to-learn-react-the-effective-way-2km7)
 - [Introduction to TypeScript 👩‍💻](https://dev.to/shaan_alam/introduction-to-typescript-7lg)
 - [How to create a Custom Drag & Drop Hook in React!🔥](https://dev.to/shaan_alam/how-to-create-a-custom-drag-drop-hook-in-react-nme)
-- [I Recreated my VSCode Theme 🔥](https://dev.to/shaan_alam/i-recreated-my-vscode-theme-33p6)
 <!-- BLOG-POST-LIST:END -->  
   
 <h3 align="left">Connect with me:</h3>  
