@@ -21,10 +21,10 @@
   
 ### Blogs posts  
 <!-- BLOG-POST-LIST:START -->
+- [How I built my second brain using Next.JS](https://dev.to/shaan_alam/how-i-built-my-second-brain-using-nextjs-56e7)
 - [Build a NextJS Blog with MDX and Tailwind.](https://dev.to/shaan_alam/build-a-nextjs-blog-with-mdx-and-tailwind-1il1)
 - [How to implement Google Authentication in your React Applications!!](https://dev.to/shaan_alam/how-to-implement-google-authentication-in-your-react-applications-jb6)
 - [How to learn React - The Effective way](https://dev.to/shaan_alam/how-to-learn-react-the-effective-way-2km7)
-- [Introduction to TypeScript 👩‍💻](https://dev.to/shaan_alam/introduction-to-typescript-7lg)
 <!-- BLOG-POST-LIST:END -->  
   
 <h3 align="left">Connect with me:</h3>  
