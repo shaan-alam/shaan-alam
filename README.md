@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaan Alam</h1>  
-<h3 align="center">A crazy 🤪, creative 🎨 & cool 😎 Programmer from India 🇮🇳</h3>  
+<h3 align="center">Learning is ecstacy ♥</h3>  
   
   <p align="center">
 <img align="center" src="https://user-images.githubusercontent.com/48273777/158253170-0ef704cf-e348-4b66-94c5-ab6bae77c1dc.png" />
