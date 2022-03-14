@@ -2,7 +2,7 @@
 <h3 align="center">A crazy 🤪, creative 🎨 & cool 😎 Programmer from India 🇮🇳</h3>  
   
   <p align="center">
-<img align="center" src="https://c.tenor.com/f-nICqWLnrQAAAAC/programmer-cycle.gif"  width="500" />
+<img align="center" src="https://user-images.githubusercontent.com/48273777/158253170-0ef704cf-e348-4b66-94c5-ab6bae77c1dc.png"  width="500" />
   </p>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaan-alam&label=Profile%20views&color=0e75b6&style=flat" alt="shaan-alam" /> </p>  
