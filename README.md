@@ -21,6 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Zettel: A Markdown based note taking application for developers.](https://dev.to/shaancodes/introducing-zettel-a-markdown-based-note-taking-application-for-developers-97n)
+- [Understanding JavaScript Closures!](https://dev.to/shaancodes/all-about-javascript-closures-you-need-to-know-43kl)
+- [🖊 I am building a pastebin alternative!](https://dev.to/shaancodes/i-am-building-a-pastebin-alternative-57o2)
+- [Optimizing User Experience with useDebounce&lpar;&rpar; Hook](https://dev.to/shaancodes/optimizing-user-experience-with-usedebounce-hook-obc)
+- [A brief intro about loaders in react router](https://dev.to/shaancodes/a-brief-intro-about-loaders-in-react-router-54d)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
