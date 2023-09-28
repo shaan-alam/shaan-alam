@@ -2,9 +2,7 @@ name: Latest blog post workflow
 on:
   schedule:
     # Runs every hour
-    - cron: "0 * * * *"
-  workflow_dispatch:
-  
+    - cron: '0 * * * *'
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -13,5 +11,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "4"
-          feed_list: "https://dev.to/feed/shaan_alam"
+          feed_list: 'https://dev.to/feed/shaancodes'
